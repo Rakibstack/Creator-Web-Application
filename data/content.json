@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "headline": "Creating Content That Inspires & Educates",
+    "subtitle": "Full-stack creator helping brands tell their story through video, design, and digital experiences.",
+    "stats": {
+      "subscribers": "250K+",
+      "projects": "150+",
+      "experience": "5+ Years"
+    }
+  },
+  "about": {
+    "story": "Hey! I'm a passionate content creator and digital storyteller with over 5 years of experience. I help brands and individuals bring their vision to life through engaging video content, stunning designs, and strategic digital presence.",
+    "skills": [
+      { "name": "Video Editing", "icon": "Video" },
+      { "name": "Motion Graphics", "icon": "Sparkles" },
+      { "name": "UI/UX Design", "icon": "Palette" },
+      { "name": "Content Strategy", "icon": "Target" },
+      { "name": "Brand Identity", "icon": "Award" },
+      { "name": "Social Media", "icon": "Share2" }
+    ]
+  },
+  "work": [
+    {
+      "id": 1,
+      "title": "Brand Launch Campaign",
+      "category": "Video Production",
+      "thumbnail": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=450&fit=crop",
+      "views": "1.2M"
+    },
+    {
+      "id": 2,
+      "title": "Product Review Series",
+      "category": "YouTube",
+      "thumbnail": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=450&fit=crop",
+      "views": "850K"
+    },
+    {
+      "id": 3,
+      "title": "Tutorial: Motion Design",
+      "category": "Education",
+      "thumbnail": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&h=450&fit=crop",
+      "views": "620K"
+    },
+    {
+      "id": 4,
+      "title": "Behind The Scenes",
+      "category": "Vlog",
+      "thumbnail": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&h=450&fit=crop",
+      "views": "450K"
+    },
+    {
+      "id": 5,
+      "title": "Client Success Story",
+      "category": "Case Study",
+      "thumbnail": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=450&fit=crop",
+      "views": "380K"
+    },
+    {
+      "id": 6,
+      "title": "Creative Process",
+      "category": "Education",
+      "thumbnail": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&h=450&fit=crop",
+      "views": "720K"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Video Editing",
+      "description": "Professional video editing for YouTube, social media, and commercial projects with cinematic quality.",
+      "price": "Starting at $500",
+      "features": ["Color Grading", "Motion Graphics", "Sound Design", "Fast Delivery"]
+    },
+    {
+      "id": 2,
+      "title": "Brand Promotion",
+      "description": "Authentic brand integrations and sponsored content that resonates with my engaged audience.",
+      "price": "Starting at $2,000",
+      "features": ["Dedicated Video", "Social Posts", "Story Features", "Analytics Report"]
+    },
+    {
+      "id": 3,
+      "title": "1-on-1 Mentorship",
+      "description": "Personalized coaching sessions to help you grow your channel and improve your content creation skills.",
+      "price": "Starting at $150/hr",
+      "features": ["Strategy Session", "Portfolio Review", "Growth Tips", "Q&A Support"]
+    }
+  ],
+  "social": [
+    { "name": "YouTube", "icon": "Youtube", "url": "#" },
+    { "name": "Instagram", "icon": "Instagram", "url": "#" },
+    { "name": "Twitter", "icon": "Twitter", "url": "#" },
+    { "name": "LinkedIn", "icon": "Linkedin", "url": "#" }
+  ]
+}
