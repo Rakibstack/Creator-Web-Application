@@ -43,30 +43,6 @@ A modern, high-quality personal website for content creators built with Next.js,
 - **Icons:** Lucide React
 - **Font:** Inter (Google Fonts)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18+ installed
-- npm or yarn package manager
-
-### Installation
-
-1. Navigate to the project directory:
-```bash
-cd creator-website
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Run the development server:
-```bash
-npm run dev
-```
-
 ## 📱 Responsive Breakpoints
 
 - Mobile: < 768px
